@@ -58,7 +58,7 @@ a simple pygame implementing animations and local score system
 <tr>
 <td width="50%" valign="top">
 
-### Ramos - collection of my userscripts
+### RamOS - collection of my userscripts
 
 some bash and python scripts for my cachy os.
 
@@ -90,9 +90,9 @@ some bash and python scripts for my cachy os.
 ---
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/prt009)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/prt009)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pratyush-pranvanjan-pradhan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:pratyushp@tutamail.com)
 
 
-<sub>Last updated: 28 August 2026</sub>
+<sub>Last updated: 13 sep 2026</sub>
