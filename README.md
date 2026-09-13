@@ -55,6 +55,21 @@ a simple pygame implementing animations and local score system
 </td>
 </tr>
 
+<tr>
+<td width="50%" valign="top">
+
+### Ramos - collection of my userscripts
+
+some bash and python scripts for my cachy os.
+
+**Featured**
+`yt-dlp mp3` `git setup` `discord updater`
+
+<a href="https://github.com/prt009/ramos">View Repository →</a>
+
+</td>
+</tr>
+
 </table>
 
 
